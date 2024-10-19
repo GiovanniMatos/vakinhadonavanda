@@ -3,7 +3,7 @@
 export default function NavSobre(){
     return(
         <>
-        <h1 className="text-sm left w-[28rem] lg:w-[45rem] mb-2">
+        <h1 className="text-sm left w-[20rem] lg:w-[45rem] mb-2">
             Vaquinha criada em: 14/10/2024<br/><br/>
 
             Iniciei essa vaquinha para ajudar no tratamento de tuberculose da minha avó Vanda de Melo de 73 anos,

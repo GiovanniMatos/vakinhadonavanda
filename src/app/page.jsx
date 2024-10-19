@@ -12,11 +12,11 @@ export default function Home() {
     <Header />
     <div className="container mx-auto mt-8 text-center">
       <h1 className="mb-2 text-sm">SAÚDE / TRATAMENTOS</h1>
-      <h1 className="lg:text-5xl text-2xl font-bold mb-2">Ajuda no tratamento da minha avó (Vanda)</h1>
+      <h1 className="lg:text-5xl text-2xl font-bold mb-2 pl-">Ajuda no tratamento da minha avó (Vanda)</h1>
       <h1 className="lg:mb-8 mb-3 lg:text-lg pr-">ID: 5136040</h1>
       <DonateContent />
       <PayButton href="/contribua" textButton="Quero Ajudar"
-       paddingLeft="pl-32" paddingRight="pr-32" marginBottom="mb-7"/>
+       paddingLeft="pl-20" paddingRight="pr-20" marginBottom="mb-7"/>
       <NavContent />
     </div>
     </>
