@@ -16,7 +16,7 @@ export default function Home() {
       <h1 className="lg:mb-8 mb-3 lg:text-lg">ID: 5136040</h1>
       <DonateContent />
       <PayButton href="/contribua" textButton="Quero Ajudar"
-       paddingLeft="pl-40" paddingRight="pr-40" marginBottom="mb-7"/>
+       paddingLeft="pl-36" paddingRight="pr-36" marginBottom="mb-7"/>
       <NavContent />
     </div>
     </>
