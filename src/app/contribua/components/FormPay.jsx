@@ -8,10 +8,10 @@ export default function FormPay(){
         </h1>
         <form>
             <input type="text" 
-            id="email" className="mb-1 w-[30rem] p-2 text-gray-900 border border-gray-300 rounded-lg"
+            id="email" className="mb-1 w-[20rem] p-2 text-gray-900 border border-gray-300 rounded-lg"
             placeholder="Nome"/>
             <input type="email" 
-            id="email" className="w-[30rem] p-2 text-gray-900 border border-gray-300 rounded-lg"
+            id="email" className="w-[20rem] p-2 text-gray-900 border border-gray-300 rounded-lg"
             placeholder="E-mail"/>
         </form>
         </>

@@ -14,9 +14,9 @@ export default function HomeContribua() {
         <h1 className="lg:mb-8 mb-3 lg:text-lg text-left ml-4">ID: 5136040</h1>
         <FormPay/>
         <h1 className="lg:mb-8 mb-3 lg:text-lg text-left ml-3 mt-4 font-bold">Com quanto deseja contribuir?</h1>
-        <PayButton href="/pagamentopix1" textButton="R$ 25,00" paddingLeft="pl-[11.5rem]" paddingRight="pr-[12rem]"/>
-        <PayButton href="/pagamentopix2" textButton="R$ 50,00" paddingLeft="pl-[11.5rem]" paddingRight="pr-[12rem]" marginBottom="mt-[1.5rem]"/>
-        <PayButton href="/pagamentopix3" textButton="R$ 100,00" paddingLeft="pl-[11.7rem]" paddingRight="pr-[11rem]" marginBottom="mt-[1.5rem]"/>
+        <PayButton href="/pagamentopix1" textButton="R$ 25,00" paddingLeft="pl-[7rem]" paddingRight="pr-[6rem]"/>
+        <PayButton href="/pagamentopix2" textButton="R$ 50,00" paddingLeft="pl-[7rem]" paddingRight="pr-[6rem]" marginBottom="mt-[1.5rem]"/>
+        <PayButton href="/pagamentopix3" textButton="R$ 100,00" paddingLeft="pl-[6rem]" paddingRight="pr-[6rem]" marginBottom="mt-[1.5rem]"/>
         <PixQrCode />
       </div>
     </>
