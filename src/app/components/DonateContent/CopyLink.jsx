@@ -31,11 +31,11 @@ export default function CopyLink({PixCode, defaultValue}) {
   return (
     <>
       <input
-        className="w-[30rem] md:w-[30rem] lg:w-[30rem] pt-2 pb-2 pl-4 border-zinc-300 border-[0.5px] rounded-[4px] mt-3"
+        className="w-[20rem] md:w-[30rem] lg:w-[30rem] pt-2 pb-2 pl-4 border-zinc-300 border-[0.5px] rounded-[4px] mt-3"
         type="text"
         defaultValue={defaultValue}
         readOnly
-      />
+      /><br/>
       <button onClick={handleClick} className="font-bold text-white bg-green-500 pl-4 pr-4 pt-1 pb-1 rounded-md mt-1">
         {copied ? 'Copiado!' : 'Copiar código'}
       </button>
