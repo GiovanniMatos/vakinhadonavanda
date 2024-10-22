@@ -9,9 +9,8 @@ export default function DonateContent(){
                 <div className="flex">
                     <div className="bg-blue-500 pt-2 pb-2 w-12 rounded-full mr-1">
                         <h1 className="text-white font-bold mt-1">GM</h1>
-                        <p>Seja uma das pessoas a colaborar com esta vakinha</p>
                     </div>
-                    <div className="text-left text-xs">
+                    <div className="text-left text-xs mt-2">
                         <p className="font-bold">Matos</p>
                         <p>Manaus AM</p>
                         <p>Ativo(a) no Vakinha desde outubro/2024</p>
