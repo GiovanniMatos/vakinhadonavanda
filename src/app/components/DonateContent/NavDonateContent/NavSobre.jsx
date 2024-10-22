@@ -15,7 +15,7 @@ export default function NavSobre(){
 
             Agradeço de coração a qualquer um que puder contribuir. Sua ajuda fará uma grande diferença para a recuperação da minha avó.  
         </h1>
-        <img src="fotovanda2.jpg" className="lg:w-[44rem] lg:h-[26rem] w-[28rem]"/>
+        <img src="fotovanda2.jpg" className="lg:w-[44rem] lg:h-[26rem] w-[23.9rem] rounded-md"/>
         </>
     )
 }

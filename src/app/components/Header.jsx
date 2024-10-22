@@ -8,7 +8,7 @@ export default function Header(){
                     <div className="flex items-center justify-between h-16">
                         <div className="flex items-center">
                             <div className="flex ml-[-2.5rem]">
-                                <a href="/"><img className="h-11 w-11 ml-9" src="logo_vakinha.png" alt="Logo Vakinha"/></a>
+                                <a href="/"><img className="h-11 w-11 ml-9 rounded-md" src="logo_vakinha.png" alt="Logo Vakinha"/></a>
                                 <a href="/"><h1 className="font-bold text-green-400 mt-1 ml-2 text-2xl">VAKINHA</h1></a>
                                 
                             </div>
