@@ -2,7 +2,7 @@
 
 export default function NavContribuidores(){
     return(
-        <div className="text-sm left w-[28rem]">
+        <div className="text-sm left w-[24rem]">
             <h2 className="bg-slate-100 pt-4 pb-4 text-center text-base font-bold rounded-md">Jhemersson Ferreira</h2>
             <h2 className="bg-slate-100 pt-4 pb-4 text-center text-base font-bold rounded-md">Kaylla Karol</h2>
             <h2 className="bg-slate-100 pt-4 pb-4 text-center text-base font-bold rounded-md">Gustavo Autusto</h2>
