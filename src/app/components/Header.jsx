@@ -18,9 +18,9 @@ export default function Header(){
                             </div>
                             <div className="hidden md:block">
                                 <div className="ml-10 flex items-baseline space-x-4">
-                                    <a href="#" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Como ajudar</a>
-                                    <a href="#" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Descubra</a>
-                                    <a href="#" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Como funciona</a>
+                                    <a href="/contribua" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Como ajudar</a>
+                                    <a href="https://www.vakinha.com.br/vaquinha/ajuda-no-tratamento-da-minha-avo-vanda" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Descubra</a>
+                                    <a href="/contribua" className="text-gray-700 px-3 py-2 rounded-md text-lg font-bold">Como funciona</a>
                                 </div>
                             </div>
                         </div>
