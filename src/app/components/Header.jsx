@@ -8,8 +8,12 @@ export default function Header(){
                     <div className="flex items-center justify-between h-16">
                         <div className="flex items-center">
                             <div className="flex ml-[-2.5rem]">
-                                <a href="/"><img className="h-11 w-11 ml-9 rounded-md" src="logo_vakinha.png" alt="Logo Vakinha"/></a>
-                                <a href="/"><h1 className="font-bold text-green-400 mt-1 ml-2 text-2xl">VAKINHA</h1></a>
+                                <a href="/">
+                                    <div className="pt-2 pb-2 w-12 ml-9 rounded-md bg-green-500">
+                                        <h1 className="text-white font-bold mx-auto text-center text-2xl">V</h1>
+                                    </div>
+                                </a>
+                                <a href="/"><h1 className="font-bold text-green-400 mt-1 ml-2 text-2xl">VAQUINHA</h1></a>
                                 
                             </div>
                             <div className="hidden md:block">
