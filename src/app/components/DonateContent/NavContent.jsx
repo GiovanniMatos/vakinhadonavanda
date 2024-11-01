@@ -28,7 +28,7 @@ export default function NavContent() {
 
   return (
     <>
-    <div className="h-[30rem]">
+    <div className="h-[30rem] mb-[15rem]">
       <nav className='mb-8 ml-4 lg:ml-36'>
         <ul className="flex text-xl">
           <li

@@ -5,6 +5,7 @@ import DonateContent from "./components/DonateContent";
 // import CopyLink from "./components/DonateContent/CopyLink";
 import NavContent from "./components/DonateContent/NavContent";
 import PayButton from "./components/DonateContent/PayButton";
+import Footer from "./components/Footer";
 // lg:ml-[-33rem]
 export default function Home() {
   return (
@@ -21,7 +22,7 @@ export default function Home() {
       </div>
       <NavContent />
     </div>
-    
+    <Footer />
     </>
   );
 }
